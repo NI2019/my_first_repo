@@ -9,3 +9,7 @@ Adding text VSC
 Added text to the new branch
 
 Added conflict in web
+
+Sth went wrong
+ * Trying again
+ 
