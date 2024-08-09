@@ -8,4 +8,5 @@ Adding text VSC
 
 Added text to the new branch
 
-Solving a conflict
+Solving a conflict in webpage
+
