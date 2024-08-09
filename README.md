@@ -7,3 +7,5 @@ Added text through webpage
 Adding text VSC
 
 Added text to the new branch
+
+Solving a conflict
